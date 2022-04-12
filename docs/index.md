@@ -2,4 +2,4 @@
 
 This is a collection of ideas
 
-[Fundamentals of Liberty](/docs/fundamentals_of_liberty.md)
+[Fundamentals of Liberty](/fundamentals_of_liberty.md)
