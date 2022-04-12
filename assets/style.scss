@@ -4,11 +4,13 @@
 @import "{{ site.theme }}";
 
 body {
-    font-size: 2em;
+    font:24px/1.5 "OpenSansRegular", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
-nav {
-    max-width: 1000px;
+#header {
+    nav {
+        max-width: 1000px;
+    }
 }
 
 section {
